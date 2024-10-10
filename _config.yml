@@ -21,9 +21,9 @@ repository               : "tobiaslong/tobiaslong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Tobias Long"
-  pronouns         : "he/him"  
+  avatar           : "profile.jpeg"
+  name             : "Tobias Long, ANutr"
+  pronouns         : # "he/him"  
   bio              : "Registered Associate Nutritionist"
   location         : "Nottingham"
   employer         : "University of Nottingham"
