@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tobias Long, ANutr"
+title                    : "Tobias Long"
 title_separator          : "-"
 name                     : &name "Tobias Long"
 description              : &description "PhD Student & Registered Associate Nutritionist"
@@ -22,10 +22,10 @@ repository               : "tobiaslong/tobiaslong.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Tobias Long"
+  name             : "Tobias Long, ANutr"
   pronouns         : # "he/him"  
   bio              : "BBSRC PhD Student & Registered Associate Nutritionist working in the area of sweet taste sensing and Type 2 Diabetes."
-  location         : "Nottingham"
+  location         : # "Nottingham"
   employer         : "University of Nottingham"
   uri              : # URL
   email            : "tobias.long@nottingham.ac.uk" 
