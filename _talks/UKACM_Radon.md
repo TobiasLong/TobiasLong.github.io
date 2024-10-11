@@ -8,4 +8,4 @@ date: 2022-04-22
 location: "Nottingham, UK"
 ---
 
-Application of the Radon-CDT to Reduced Order Methods in Modelling Distributed Electric Propulsion Layouts
+<b>Presentation Title:</b> Application of the Radon-CDT to Reduced Order Methods in Modelling Distributed Electric Propulsion Layouts
