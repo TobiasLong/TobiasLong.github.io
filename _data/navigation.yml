@@ -4,7 +4,11 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
+main:  
+
+  - title: "Research"
+    url: /research
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,9 +18,6 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
