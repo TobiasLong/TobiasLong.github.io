@@ -39,10 +39,10 @@
      border-radius: $border-radius;
      cursor: pointer;
 
-  &:hover {
-    color: #fff;
-    background-color: $link-color !important;
-  }
+     &:hover {
+       color: #fff;
+       background-color: $link-color !important;
+     }
 
 
   .icon {
